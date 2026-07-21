@@ -1,0 +1,28 @@
+{
+  "name": "el-date-range",
+  "version": "1.0.0",
+  "private": true,
+  "description": "基于 Element UI 的日期范围选择器组件,支持点击年/月快速切换",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.14",
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.19",
+    "@vue/cli-service": "~4.5.19",
+    "core-js": "^3.30.0",
+    "sass": "^1.62.0",
+    "sass-loader": "^10.4.1",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
